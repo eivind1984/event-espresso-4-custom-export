@@ -1,0 +1,2 @@
+# event-espresso-4-custom-export
+I needed to tweak the export of attendees from the WordPress plugin Event Espresso. As the built in function was really far from what I needed (and changing it would mean all changes lost upon upgrade), I wrote a custom export. This is adjusted to my needs, so it won't work fully out of the box for anyone else, but it might make it easier to get something up and running for other people needing this.
