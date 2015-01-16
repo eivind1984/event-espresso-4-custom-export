@@ -9,7 +9,7 @@ The setup is kind of strange, but it does what it needs to. Feel free to create 
 Download the .php-file in this project. Place it in your WordPress theme folder.
 
 ### Step 2
-Create a page from the WordPress admin. In this example, I'm naming it "Event Espresso Export", giving it the slug event-espresso-export. In the template selection dropdown, assign it the Event Espresso Export template (added in step 1).
+Create a page from the WordPress admin. In this example, I'm naming it "Event Espresso Export", giving it the slug event-espresso-export. In the template selection dropdown, assign it the Event Espresso Attendee Export template (added in step 1).
 
 ### Step 3
 Put the following code in your functions.php. This will add an export button to the event espresso attendee list page, and hide the original export button (to not confuse users by displaying two export buttons).
